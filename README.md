@@ -1,3 +1,3 @@
 # tableau-extensions-tutorial-part-one
-#H1 My first Tableau extension exercise
-##H3 My second sub heading
+## My first Tableau extension exercise
+#### My second sub heading
